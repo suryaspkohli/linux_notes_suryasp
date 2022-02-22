@@ -27,4 +27,6 @@
 28 find
 29 locate
 30 date
+31 grep
+32 kill
 
